@@ -1,4 +1,4 @@
-# Amazon Reviews Natural Language Processing
+# Amazon Reviews Big Data
 
 https://drive.google.com/drive/folders/1NqeNpR9H4d9YW4f6iprdhtZvv8kH9ODl?usp=sharing
 
